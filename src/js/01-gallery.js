@@ -3,6 +3,7 @@ import SimpleLightbox from "simplelightbox";
 import { galleryItems } from './gallery-items.js';
 import "simplelightbox/dist/simple-lightbox.min.css";
 
+
 const gallery = document.querySelector('.gallery');
 const markupGallery = createGallery(galleryItems);
 
